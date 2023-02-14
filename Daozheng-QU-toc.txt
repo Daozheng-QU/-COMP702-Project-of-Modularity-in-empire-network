@@ -1,0 +1,10 @@
+source code:
+small-nodes(100) and r = 2
+large-nodes and r = 2
+large-nodes and r = 3
+large-nodes and r = 5
+PDF files:
+dissertation
+appendices
+Text files:
+Daozheng-QU-toc
